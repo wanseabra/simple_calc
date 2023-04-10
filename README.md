@@ -1,6 +1,8 @@
 # simple_calc
 
-A simple calculator
+A simple calculator. Screenshot below
+![alt text](https://i.imgur.com/4C7eWSZ.jpg)
+
 
 ## Getting Started
 
